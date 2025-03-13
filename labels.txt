@@ -1,0 +1,6 @@
+0 Background Noise
+1 Bear
+2 Chimpanzee
+3 Elephant
+4 Lion
+5 Spotted Owl
