@@ -6,9 +6,9 @@ import io
 import os
 
 # Paths
-MODEL_PATH = "C:/Users/ghaza/Desktop/Discovery Week/tmachine/sound.tflite"
-LABELS_PATH = "C:/Users/ghaza/Desktop/Discovery Week/tmachine/labels.txt"
-IMAGES_FOLDER = "C:/Users/ghaza/Desktop/Discovery Week/images/"
+MODEL_PATH = "C:/Users/ghaza/Desktop/Discovery Week/Animal-Detector/sound.tflite"
+LABELS_PATH = "C:/Users/ghaza/Desktop/Discovery Week/Animal-Detector/labels.txt"
+IMAGES_FOLDER = "C:/Users/ghaza/Desktop/Discovery Week/Animal-Detector/images/"
 
 # Load labels
 with open(LABELS_PATH, "r") as f:
